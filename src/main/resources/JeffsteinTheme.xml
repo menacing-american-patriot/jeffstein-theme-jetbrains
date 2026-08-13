@@ -1,11 +1,4 @@
 <scheme name="Jeffstein Theme" version="142" parent_scheme="Darcula">
-  <metaInfo>
-    <property name="created">2026-08-13T14:32:15</property>
-    <property name="ide">Android Studio</property>
-    <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2026-08-13T14:32:17</property>
-    <property name="originalScheme">Jeffstein Theme</property>
-  </metaInfo>
   <colors>
     <option name="GUTTER_BACKGROUND" value="000000" />
     <option name="SELECTION_BACKGROUND" value="7F8100" />

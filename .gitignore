@@ -1,1 +1,14 @@
-convert/*
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+out/
+*.iml
+
+# macOS
+.DS_Store
+
+# Secrets / local env
+.local.properties

@@ -1,0 +1,22 @@
+<idea-plugin>
+  <id>org.jeffstein.jeffstein-theme</id>
+  <name>Jeffstein Theme</name>
+  <version>1.0.0</version>
+  <vendor email="inbox@mail.jeffstein.org" url="https://github.com/menacing-american-patriot/jeffstein-theme-jetbrains">Jeffstein Cumjar</vendor>
+
+  <description><![CDATA[
+  The highly anticipated Jeffstein Theme is finally on Jetbrains.
+  ]]></description>
+
+  <change-notes><![CDATA[
+  We are so back.
+  ]]></change-notes>
+
+  <idea-version since-build="241"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="7f6152a7-cc8f-43dc-bae2-00c914a3e560" path="/themes/jeffstein.theme.json"/>
+  </extensions>
+</idea-plugin>
