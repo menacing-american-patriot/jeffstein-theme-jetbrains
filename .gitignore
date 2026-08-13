@@ -12,3 +12,4 @@ out/
 
 # Secrets / local env
 .local.properties
+.env
