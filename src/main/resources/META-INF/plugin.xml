@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>org.jeffstein.jeffstein-theme</id>
   <name>Jeffstein Theme</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <vendor email="inbox@mail.jeffstein.org" url="https://github.com/menacing-american-patriot/jeffstein-theme-jetbrains">Jeffstein Cumjar</vendor>
 
   <description><![CDATA[
